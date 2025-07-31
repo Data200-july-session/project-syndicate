@@ -1,16 +1,21 @@
-# Project Title
+Project Title - Student Depression Dataset
 
-## Team Information
+Dataset Link - https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset
 
-### Team Name
-*Replace this with your team name*
+ Team Information
 
-### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+ Team Name - Syndicate
 
-### Task Division
-- **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
-- **Member 2**: *Describe tasks assigned (e.g., Model validation and creation)*
-- **Member 3**: *Describe tasks assigned (e.g., application development and data tasks)*
+
+ Team Members
+1. ksubedi7
+2. Agrata brrbrbatapim
+3. ArvinTDR
+4. angelthapa01
+
+ Task Division
+ksubedi7: Topic ideation, literature review, and Exploratory Data Analysis (EDA)
+Agrata brrbrbatapim: Model selection, hypothesis development, and statistical analysis
+angelthapa01: Application development and additional data tasks
+ArvinTDR: Report writing, presentation preparation, and peer evaluation
+ 
