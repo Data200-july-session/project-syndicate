@@ -15,12 +15,12 @@ Dataset Link - https://www.kaggle.com/datasets/berkayalan/the-most-expensive-foo
 
  Task Division
 
-ksubedi7: Topic ideation, literature review, and Exploratory Data Analysis (EDA)
+1. ksubedi7: Topic ideation, literature review, and Exploratory Data Analysis (EDA)
 
-Agrata brrbrbatapim: Model selection, hypothesis development, and statistical analysis
+2. Agrata brrbrbatapim: Model selection, hypothesis development, and statistical analysis
 
-angelthapa01: Application development and additional data tasks
+3. angelthapa01: Application development and additional data tasks
 
-ArvinTDR: Report writing, presentation preparation, and peer evaluation
+4. ArvinTDR: Report writing, presentation preparation, and peer evaluation
 
  
